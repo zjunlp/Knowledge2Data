@@ -33,7 +33,7 @@
 
 ## 🌟Overview
 <div align="center">
-<img src="figs/figure2.png" width="60%">
+<img src="figs/figure2.png" width="90%">
 </div>
 
 
