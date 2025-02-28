@@ -1,0 +1,15 @@
+numpy==1.23.0
+scipy
+torch==2.2.2
+diffusers==0.18.0
+transformers
+opencv-python==4.9.0.80
+opencv-contrib-python==4.7.0.72
+inflect==6.0.4
+easydict
+accelerate==0.29.1
+gradio==3.35.2
+pydantic==1.10.7
+huggingface-hub==0.23.2
+openai
+invisible-watermark>=2.0

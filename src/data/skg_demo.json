@@ -1,0 +1,21 @@
+[
+    {
+        "scene": "park",
+        "chosen_objects": [
+            "cat",
+            "dog"
+        ],
+        "attributes": {
+            "0": "a black cat",
+            "1": "a white dog"
+        },
+        "negative_objects": "person",
+        "objects_kg": [
+            [
+                0,
+                "on the left of, near",
+                1
+            ]
+        ]
+    }
+]
