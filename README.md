@@ -5,6 +5,10 @@
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/zjunlp/Knowledge2Data) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
+<div align="center">
+<img src="figs/figure1.gif" width="60%">
+</div>
+
 <p align="center">
   <a href="https://github.com/zjunlp/Knowledge2Data">Project</a> •
   <a href=https://github.com/zjunlp/Knowledge2Data"">Paper</a> •
