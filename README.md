@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 <div align="center">
-<img src="figs/figure1.gif" width="60%">
+<img src="figs/figure1.gif" width="90%">
 </div>
 
 <p align="center">
