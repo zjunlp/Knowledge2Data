@@ -86,7 +86,15 @@ This project is based on open-source projects including [LLM-groundedDiffusion](
 Please cite the following paper if you use this project in your work.
 
 ```bibtex
-
+@misc{xue2025spatialknowledgegraphguidedmultimodal,
+      title={Spatial Knowledge Graph-Guided Multimodal Synthesis}, 
+      author={Yida Xue and Zhen Bi and Jinnan Yang and Jungang Lou and Huajun Chen and Ningyu Zhang},
+      year={2025},
+      eprint={2505.22633},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.22633}, 
+}
 ```
 
 ---
