@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href="https://github.com/zjunlp/Knowledge2Data">Project</a> •
-  <a href=https://github.com/zjunlp/Knowledge2Data"">Paper</a> •
-  <a href="https://github.com/zjunlp/Knowledge2Data">Web</a> •
+  <a href=https://arxiv.org/abs/2505.22633"">Paper</a> •
+  <a href="https://huggingface.co/datasets/zjunlp/Knowledge2Data">HuggingFace</a> •
   <a href="#overview">Overview</a> •
   <a href="#quickstart">Quickstart</a> •
   <a href="#citation">Citation</a>
@@ -38,6 +38,8 @@
 
 
 ## ⏩Quickstart
+### Data
+Get training data and test data from HuggingFace: https://huggingface.co/datasets/zjunlp/Knowledge2Data
 ### Installation
 ```
 git clone https://github.com/zjunlp/Knowledge2Data
