@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/zjunlp/Knowledge2Data">Project</a> •
-  <a href=https://arxiv.org/abs/2505.22633"">Paper</a> •
+  <a href=https://arxiv.org/abs/2505.22633>Paper</a> •
   <a href="https://huggingface.co/datasets/zjunlp/Knowledge2Data">HuggingFace</a> •
   <a href="#overview">Overview</a> •
   <a href="#quickstart">Quickstart</a> •
